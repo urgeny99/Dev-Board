@@ -1,5 +1,7 @@
 Honestly I have no idea what i can do with this DevBoard and I did it because it sounded cool and wanted to get KiCad better to know and what you do with all different functions. I hope that all the time I spent building it is worth it in the end. I have to do some research to learn what i can use the devboard for :)
 
+I will top up myself since i want to order 10 boards i will only want a grant for the minimum(2) also on lcsc i am ordering the minimum most of the items on those that i need more than the minimum i will pay myself.(i order it seperate so the ywont be in my cart)
+
 <img width="641" height="835" alt="Screenshot 2025-12-18 172210" src="https://github.com/user-attachments/assets/6e016e1d-20d7-4b9d-b011-2914979684f5" />
 
 
