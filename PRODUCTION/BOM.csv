@@ -4,7 +4,7 @@
 3,C19702,CL10A106KP8NNNC,Samsung Electro-Mechanics,0603,10uF ±10% 10V Ceramic Capacitor X5R 0603,yes,100,0.0058,0.58,https://www.lcsc.com/product-detail/C19702.html
 4,C1562,0402CG330J500NT,FH,0402,33pF ±5% 50V Ceramic Capacitor C0G 0402,yes,100,0.0011,0.11,https://www.lcsc.com/product-detail/C1562.html
 5,C965793,XL-1005UGC,XINGLIGHT,0402,Emerald Green 531nm LED Indication - Discrete 3V 0402,yes,100,0.0076,0.76,https://www.lcsc.com/product-detail/C965793.html
-6,C5149201,SK6812MINI-E,OPSCO Optoelectronics,SMD,"SMD LED Addressable, Specialty RoHS",yes,10,0.0862,0.86,https://www.lcsc.com/product-detail/C5149201.html
+6,C5149201,SK6812MINI-E,OPSCO Optoelectronics,SMD,"SMD LED Addressable, Specialty RoHS",yes,5,0.0862,0.86,https://www.lcsc.com/product-detail/C5149201.html
 7,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,yes,10,0.1762,1.76,https://www.lcsc.com/product-detail/C165948.html
 8,C50981,2.54-1*20P,BOOMELE(Boom Precision Elec),"Through Hole,P=2.54mm",Pin Header 20 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,yes,20,0.1157,2.31,https://www.lcsc.com/product-detail/C50981.html
 9,C24980,1.27-1*3P,BOOMELE(Boom Precision Elec),"Through Hole,P=1.27mm",Pin Header 3 Position 1.27mm Pitch Single Row Through Hole -55℃~+105℃,yes,20,0.029,0.58,https://www.lcsc.com/product-detail/C24980.html
@@ -20,3 +20,4 @@
 19,C9002,X322512MSB4SI,YXC Crystal Oscillators,SMD3225-4P,Crystal 12MHz ±10ppm 20pF SMD3225-4P,yes,10,0.0685,0.69,https://www.lcsc.com/product-detail/C9002.html
 20,C28927,TMP112AIDRLR,TI,SOT-563,Temperature Sensor -40℃~+125℃ SOT-563,yes,10,0.2273,2.27,https://www.lcsc.com/product-detail/C28927.html
 21,C2906874,FRC0402F5101TS,FOJAN,0402,5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0005,0.05,https://www.lcsc.com/product-detail/C2906874.html
+
