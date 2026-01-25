@@ -1,17 +1,8 @@
 Honestly I have no idea what i can do with this DevBoard and I did it because it sounded cool and wanted to get KiCad better to know and what you do with all different functions. I hope that all the time I spent building it is worth it in the end. I have to do some research to learn what i can use the devboard for :)
 
-I will top up myself since i want to order 10 boards i will only want a grant for the minimum(2) also on lcsc i am ordering the minimum most of the items on those that i need more than the minimum i will pay myself.(i order it seperate so the ywont be in my cart)
+i dont need a grant for my pcb since i am going to buy them myself i only need a grtant for the parts on LCSC
 
-<img width="641" height="835" alt="Screenshot 2025-12-18 172210" src="https://github.com/user-attachments/assets/6e016e1d-20d7-4b9d-b011-2914979684f5" />
-
-
-<img width="934" height="887" alt="Screenshot 2025-12-18 172224" src="https://github.com/user-attachments/assets/e4f04fa4-0599-466d-8bc8-7623ad89f880" />
-
-
-
-<img width="438" height="864" alt="Screenshot 2025-12-18 172153" src="https://github.com/user-attachments/assets/a139f237-50f4-46c0-8d8e-42aa4f35ab6a" />
-
-
-
-<img width="1029" height="726" alt="Screenshot 2025-12-18 142932" src="https://github.com/user-attachments/assets/027a9f95-3762-4ce9-a5dd-1f311c507f2e" />
-
+<img width="872" height="857" alt="Screenshot 2026-01-25 174842" src="https://github.com/user-attachments/assets/b23d8414-8997-4826-9dbe-0af00ca85674" />
+<img width="1155" height="792" alt="Screenshot 2026-01-25 184619" src="https://github.com/user-attachments/assets/36f93af4-65a1-4f16-95f0-9778fc96022b" />
+<img width="1058" height="908" alt="Screenshot 2026-01-25 184558" src="https://github.com/user-attachments/assets/78cd9d9f-445b-44e2-addc-1b7f9dbb2ad1" />
+<img width="1022" height="884" alt="Screenshot 2026-01-25 184607" src="https://github.com/user-attachments/assets/6f304c64-fd52-4bd5-80ae-fda7a46cbff0" />
