@@ -1,23 +1,22 @@
-﻿Index,LCSC#,MPN,Manufacturer,Package,Description,RoHS,Quantity,Unit Price($),Extended Price($),Product Link
-1,C52923,CL05A105KA5NQNC,Samsung Electro-Mechanics,0402,1uF ±10% 25V Ceramic Capacitor X5R 0402,yes,100,0.003,0.3,https://www.lcsc.com/product-detail/C52923.html
-2,C1525,CL05B104KO5NNNC,Samsung Electro-Mechanics,0402,100nF ±10% 16V Ceramic Capacitor X7R 0402,yes,200,0.0012,0.24,https://www.lcsc.com/product-detail/C1525.html
-3,C19702,CL10A106KP8NNNC,Samsung Electro-Mechanics,0603,10uF ±10% 10V Ceramic Capacitor X5R 0603,yes,100,0.0058,0.58,https://www.lcsc.com/product-detail/C19702.html
-4,C1562,0402CG330J500NT,FH,0402,33pF ±5% 50V Ceramic Capacitor C0G 0402,yes,100,0.0011,0.11,https://www.lcsc.com/product-detail/C1562.html
-5,C965793,XL-1005UGC,XINGLIGHT,0402,Emerald Green 531nm LED Indication - Discrete 3V 0402,yes,100,0.0076,0.76,https://www.lcsc.com/product-detail/C965793.html
-6,C5149201,SK6812MINI-E,OPSCO Optoelectronics,SMD,"SMD LED Addressable, Specialty RoHS",yes,5,0.0862,0.86,https://www.lcsc.com/product-detail/C5149201.html
-7,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,yes,10,0.1762,1.76,https://www.lcsc.com/product-detail/C165948.html
-8,C50981,2.54-1*20P,BOOMELE(Boom Precision Elec),"Through Hole,P=2.54mm",Pin Header 20 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,yes,20,0.1157,2.31,https://www.lcsc.com/product-detail/C50981.html
-9,C24980,1.27-1*3P,BOOMELE(Boom Precision Elec),"Through Hole,P=1.27mm",Pin Header 3 Position 1.27mm Pitch Single Row Through Hole -55℃~+105℃,yes,20,0.029,0.58,https://www.lcsc.com/product-detail/C24980.html
-10,C25100,0402WGF270JTCE,UNI-ROYAL,0402,27Ω ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C25100.html
-11,C11702,0402WGF1001TCE,UNI-ROYAL,0402,1kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C11702.html
-12,C25744,0402WGF1002TCE,UNI-ROYAL,0402,10kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C25744.html
-13,C25900,0402WGF4701TCE,UNI-ROYAL,0402,4.7kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C25900.html
-14,C25091,0402WGF2200TCE,UNI-ROYAL,0402,220Ω ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0006,0.06,https://www.lcsc.com/product-detail/C25091.html
-15,C720477,TS-1088-AR02016,XUNPU,"SMD,4x3mm",Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount,yes,20,0.0445,0.89,https://www.lcsc.com/product-detail/C720477.html
-16,C2040,RP2040,Raspberry Pi,LQFN-56(7x7),133MHz 30 LQFN-56(7x7) Microcontrollers RoHS,yes,10,0.8644,8.64,https://www.lcsc.com/product-detail/C2040.html
-17,C39051,MCP1700T-3302E/TT,MICROCHIP,SOT-23,"Positive Fixed 3.3V SOT-23 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,10,0.3607,3.61,https://www.lcsc.com/product-detail/C39051.html
-18,C2843335,W25Q16JVUXIQ,Winbond,USON-8-EP(2x3),2.7V~3.6V 16Mbit 133MHz SPI USON-8-EP(2x3) Memory (ICs) RoHS,yes,12,0.5048,6.06,https://www.lcsc.com/product-detail/C2843335.html
-19,C9002,X322512MSB4SI,YXC Crystal Oscillators,SMD3225-4P,Crystal 12MHz ±10ppm 20pF SMD3225-4P,yes,10,0.0685,0.69,https://www.lcsc.com/product-detail/C9002.html
-20,C28927,TMP112AIDRLR,TI,SOT-563,Temperature Sensor -40℃~+125℃ SOT-563,yes,10,0.2273,2.27,https://www.lcsc.com/product-detail/C28927.html
-21,C2906874,FRC0402F5101TS,FOJAN,0402,5.1kΩ ±1% 62.5mW 0402 Thick Film Resistor,yes,100,0.0005,0.05,https://www.lcsc.com/product-detail/C2906874.html
-
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($)
+1,C15849,CL10A105KB8NNNC,Samsung Electro-Mechanics,0603,,1uF ±10% 50V Ceramic Capacitor X5R 0603,yes,50,50,50,0.0056,0.28
+2,C14663,CC0603KRX7R9BB104,YAGEO,0603,,100nF ±10% 50V Ceramic Capacitor X7R 0603,yes,200,100,100,0.0021,0.42
+3,C440198,GRM21BR61H106KE43L,muRata,0805,,10uF ±10% 50V Ceramic Capacitor X5R 0805,yes,20,10,10,0.0628,1.26
+4,C1663,CL10C330JB8NNNC,Samsung Electro-Mechanics,0603,,33pF ±5% 50V Ceramic Capacitor C0G 0603,yes,100,100,100,0.0043,0.43
+5,C19702,CL10A106KP8NNNC,Samsung Electro-Mechanics,0603,,10uF ±10% 10V Ceramic Capacitor X5R 0603,yes,50,50,50,0.0065,0.33
+6,C5149201,SK6812MINI-E,OPSCO Optoelectronics,SMD,,"SMD LED Addressable, Specialty RoHS",yes,10,5,5,0.0874,0.87
+7,C165948,TYPE-C-31-M-12,Korean Hroparts Elec,SMD,,USB-C (USB TYPE-C) Receptacle Connector 16 Position Surface Mount,yes,10,5,5,0.1789,1.79
+8,C50981,2.54-1*20P,BOOMELE(Boom Precision Elec),"Through Hole,P=2.54mm",,Pin Header 20 Position 2.54mm Pitch Single Row Through Hole -40℃~+105℃,yes,10,5,5,0.1157,1.16
+9,C24980,1.27-1*3P,BOOMELE(Boom Precision Elec),"Through Hole,P=1.27mm",,Pin Header 3 Position 1.27mm Pitch Single Row Through Hole -55℃~+105℃,yes,20,20,20,0.0294,0.59
+10,C23186,0603WAF5101T5E,UNI-ROYAL,0603,,5.1kΩ ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0011,0.11
+11,C25190,0603WAF270JT5E,UNI-ROYAL,0603,,27Ω ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0012,0.12
+12,C21190,0603WAF1001T5E,UNI-ROYAL,0603,,1kΩ ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0012,0.12
+13,C25804,0603WAF1002T5E,UNI-ROYAL,0603,,10kΩ ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0011,0.11
+14,C22962,0603WAF2200T5E,UNI-ROYAL,0603,,220Ω ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0013,0.13
+15,C39051,MCP1700T-3302E/TT,MICROCHIP,SOT-23,,"6V Positive Fixed 3.3V SOT-23 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS",yes,10,5,5,0.3617,3.62
+16,C28927,TMP112AIDRLR,TI,SOT-563,,Temperature Sensor -40℃~+125℃ SOT-563,yes,10,5,5,0.2273,2.27
+17,C2843335,W25Q16JVUXIQ,Winbond,USON-8-EP(2x3),,2.7V~3.6V 16Mbit 133MHz SPI USON-8-EP(2x3) Memory (ICs) RoHS,yes,8,4,4,1.1288,9.03
+18,C9002,X322512MSB4SI,YXC Crystal Oscillators,SMD3225-4P,,Crystal 12MHz ±10ppm 20pF SMD3225-4P,yes,10,10,10,0.0688,0.69
+19,C2040,RP2040,Raspberry Pi,LQFN-56(7x7),,133MHz 30 LQFN-56(7x7) Microcontrollers RoHS,yes,10,1,1,0.8644,8.64
+20,C720477,TS-1088-AR02016,XUNPU,"SMD,4x3mm",,Tactile Switch SPST 160gf 2mm SMD (SMT) Tab 4mm x 3mm Surface Mount,yes,10,10,10,0.0426,0.43
+21,C99782,RC0603FR-074K7L,YAGEO,0603,,100mW 4.7kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0013,0.13
