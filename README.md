@@ -1,6 +1,6 @@
-#This is a self made dev board that i can use on many different projects. For example mount it on a bread board and connect a small screen or something like that.
+# This is a self made dev board that i can use on many different projects. For example mount it on a bread board and connect a small screen or something like that.
 
-##Parts
+## Parts
 What this board has are:
 - USB-C conmector
 - 16Mb flash storage
