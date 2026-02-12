@@ -1,4 +1,16 @@
-Honestly I have no idea what i can do with this DevBoard and I did it because it sounded cool and wanted to get KiCad better to know and what you do with all different functions. I hope that all the time I spent building it is worth it in the end. I have to do some research to learn what i can use the devboard for :)
+#This is a self made dev board that i can use on many different projects. For example mount it on a bread board and connect a small screen or something like that.
+
+##Parts
+What this board has are:
+- USB-C conmector
+- 16Mb flash storage
+- RP2040 "CPU"
+- 12MHz Crystal Osillator
+- Temperature sensor
+- Small NeoPixel
+- 20+ GPIO pins
+
+
 
 i dont need a grant for my pcb since i am going to buy them myself i only need a grtant for the parts on LCSC
 
