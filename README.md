@@ -1,6 +1,7 @@
 # This is a self made dev board that i can use on many different projects. For example mount it on a bread board and connect a small screen or something like that.
 # Story
 I made started this project without knowing almost anything about PCBs but with the time as i followed the tutrial more and more things got clear. I was not sure what to use this for but i started watching videos and and did research. It is actually a very cool project. I am not sure if it will be easy soldering at home but i like a challange so i'll try it.
+I will probably be using this dev board with bread boards to try experimenting and i maybe order some more cool components to try out how they work. (e.g OLED screens, small sensors etc.)
 ## Parts
 What this board has are:
 - USB-C conmector
